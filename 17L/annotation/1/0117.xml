@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>117.jpg</filename>
+	<path>C:\Users\90463\Desktop\data2\1\117.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>217</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>84</ymin>
+			<xmax>203</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

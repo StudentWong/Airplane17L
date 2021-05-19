@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>89.jpg</filename>
+	<path>C:\Users\90463\Desktop\data2\1\89.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>217</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>180</ymin>
+			<xmax>219</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>
